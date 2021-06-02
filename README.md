@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 
+<img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/62afaeb8d5d8abde5adbdecfd8433cc8b70f70a1/github-contribution-grid-snake.svg">
 <!--
 **TaianeBorges/TaianeBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
